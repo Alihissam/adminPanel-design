@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/adminPanel-design/static/css/main.14f5e47b.css",
+    "main.js": "/adminPanel-design/static/js/main.f61bae94.js",
+    "static/media/hissam.jpg": "/adminPanel-design/static/media/hissam.186b4dbec393d8a7feca.jpg",
+    "index.html": "/adminPanel-design/index.html",
+    "main.14f5e47b.css.map": "/adminPanel-design/static/css/main.14f5e47b.css.map",
+    "main.f61bae94.js.map": "/adminPanel-design/static/js/main.f61bae94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14f5e47b.css",
+    "static/js/main.f61bae94.js"
+  ]
+}
