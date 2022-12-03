@@ -1,0 +1,107 @@
+.sidebar{
+    background-color:#0E1F36;
+    height: 100vh;
+    overflow: hidden;
+}
+.sidebar-top-section{
+    display: flex;
+    padding: 12px 30px;
+    justify-content: space-between;
+}
+.menu-bar{
+    display: flex;
+    margin-top: 3px;
+    color: rgb(190, 190, 190);
+   
+}
+.sidear-title{
+    font-weight: 600;
+    font-size: 20px;
+    display: flex;
+    color: rgb(190, 190, 190);
+    
+}
+.avatar-img{
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.main-img{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.name-container{
+    padding-top: 0px;
+}
+.avatar-name{
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+.profession{
+    font-size: 11px;
+    font-weight: 600;
+    color: #13DF9B;
+}
+
+.menu-container{
+    padding-top: 5px;
+    display: flex;
+    padding: 0 20px;
+    
+}
+.menu-item-section{
+    font-size: 11px;
+    font-weight: 600;
+}
+.sidebar-menu{
+   
+    width: 100%;
+    justify-content: center;
+}
+.menu-list-section{
+    padding:  3px 0; 
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    color: rgb(190, 190, 190);
+    transition: .1s ease-in-out;
+}
+.menu-list-section:hover{
+    background-color: #13df9bad;
+    border-right: 4px solid rgb(252, 252, 252);
+    /* border-radius: 5px; */
+}
+
+.icons{
+    display: flex;
+    padding-left:6px;
+    margin-right: 7px;
+    align-items: center;
+    margin-left: 6px;
+    color: rgb(180, 180, 180);
+    
+}
+.content-title{
+    font-size: 10px;
+    display: flex;
+    margin-left:19px;
+    justify-content: start;
+    font-weight: bold;
+    color: rgb(138, 138, 138);
+    padding: 9px;
+    
+}
+a{
+    white-space: nowrap;
+}
+.invoices{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: rgb(190, 190, 190);
+    gap: 10px;
+}

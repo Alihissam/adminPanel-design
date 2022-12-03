@@ -1,0 +1,16 @@
+.team{
+    padding: 10px 20px;
+}
+.team-desc{
+    font-size: 10px;
+    font-weight: 600;
+    color: #13DF9B;
+    text-transform: capitalize;
+}
+.table{
+    padding-top: 30px;
+    height: 75vh;
+    /* background-color: white; */
+    color: white;
+    /* border: 1px solid gray; */
+}
